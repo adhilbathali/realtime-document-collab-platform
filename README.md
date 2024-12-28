@@ -102,7 +102,3 @@ Follow these detailed steps to set up and run the application on your computer:
 
 6.  **Logging Out:**
    *  Click the logout button in the top right, this will redirect you to the landing page and your login status will be removed.
-
-## Project Structure
-
-The project follows the below folder structure
